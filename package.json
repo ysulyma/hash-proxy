@@ -1,0 +1,17 @@
+{
+  "name": "hash-proxy",
+  "version": "1.0.0",
+  "description": "Safely expose subobjects",
+  "author": "Yuri Sulyma <yuri@sulyma.ca>",
+  "bugs": "https://github.com/yuri0/hash-proxy/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/yuri0/hash-proxy/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yuri0/hash-proxy.git"
+  }
+}
